@@ -1,6 +1,9 @@
 # Coffee-Shop-Sales
 ☕ Coffee Shop Sales Dashboard – Driving Insights with Data 📊📈
 
+<img width="1854" height="951" alt="Screenshot 2025-08-30 225345" src="https://github.com/user-attachments/assets/233be56f-e934-41a2-9b26-3c642d567006" />
+
+
 Excited to share my latest Excel BI project — a Sales Analysis Dashboard built for a coffee shop to track daily performance, customer trends, and product insights.
 
 This dashboard provides a complete view of sales data to help improve decision-making and boost business growth.
